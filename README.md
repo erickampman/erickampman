@@ -1,6 +1,6 @@
 I've been a software developer for many years, and am proficient in Swift, Objective-C(++), C++ and C, with a minor in Python. 
 
-In the past I've worked at Fortune 500 companies, startups, and multibillion ARR companies with extremet YoY revenu growth.
+I've worked at Fortune 500 companies, startups, and multibillion ARR companies with extremet YoY revenue growth. Currently I'm independent developer.
 
 I'm focused on iOS and MacOS multiplatform target apps. 
 Latest projects:
