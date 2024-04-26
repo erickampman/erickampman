@@ -10,6 +10,14 @@ Latest projects:
   - Will be available for macOS and ipadOS
 - Job Search apps, in progress. Will be macOS / iOS / ipadOS
 
+
+I have lots of public repositories demonstrating various aspects of
+- Swift
+- SwiftUI
+- SwiftData
+- KVO/KVC
+Please check them out, especially if you are getting up to speed on Apple's newer APIs with SwiftUI and SwiftData.
+
 <!---
 erickampman/erickampman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
