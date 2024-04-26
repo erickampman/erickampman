@@ -16,6 +16,7 @@ I have lots of public repositories demonstrating various aspects of
 - SwiftUI
 - SwiftData
 - KVO/KVC
+
 Please check them out, especially if you are getting up to speed on Apple's newer APIs with SwiftUI and SwiftData.
 
 <!---
