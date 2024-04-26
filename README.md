@@ -1,4 +1,6 @@
-I'm Eric Kampman. I've been a software developer for many years, and am proficient in Swift, Objective-C(++), C++ and C, with a minor in Python. 
+I've been a software developer for many years, and am proficient in Swift, Objective-C(++), C++ and C, with a minor in Python. 
+
+In the past I've worked at Fortune 500 companies, startups, and multibillion ARR companies with extremet YoY revenu growth.
 
 I'm focused on iOS and MacOS multiplatform target apps. 
 Latest projects:
