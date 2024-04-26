@@ -6,7 +6,7 @@ Latest projects:
 - TSP software synth, still in alpha. Waiting on a bug fix from Apple. TSP stands for "Triangle, Sawtooth, Pulse" (oscillators).
   - This includes multiple routing options for lots of flexibility
   - Will be available for macOS and ipadOS
-- Job Search apps, in progress. Will be macOS/iOS/ipadOS
+- Job Search apps, in progress. Will be macOS / iOS / ipadOS
 
 <!---
 erickampman/erickampman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
