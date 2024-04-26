@@ -1,4 +1,12 @@
-I'm Eric Kampman. I've been a software developer for many years, mostly in the embedded C world. I'm actively pursuing iOS and MacOS development, and am currently working on iOS/MacOS AudioUnits. I've released AudMod on the Apple Store for macOS, a phase modulation and waveshaping synthesizer. Check it out -- it's free! Also delving into MIDI 2.0, SwiftUI and SwiftData. 
+I'm Eric Kampman. I've been a software developer for many years, and am proficient in Swift, Objective-C(++), C++ and C. 
+
+I'm focused on iOS and MacOS multiplatform target apps. 
+Latest projects:
+- AudMod software synth on the Apple Store for macOS, a phase modulation and waveshaping synthesizer. Check it out -- it's free!
+- TSP software synth, still in alpha. Waiting on a bug fix from Apple. TSP stands for "Triangle, Sawtooth, Pulse" (oscillators).
+  - This includes multiple routing options for lots of flexibility
+  - Will be available for macOS and ipadOS
+- Job Search apps, in progress. Will be macOS/iOS/ipadOS
 
 <!---
 erickampman/erickampman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
